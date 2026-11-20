@@ -1,4 +1,3 @@
-# NETWORKWALKS-B084-WK3-PASSWORD-CRACKING-LABS
 # 🔐 Password Cracking Labs — John the Ripper (JTR) & NetworkWalks Tools
 
 **Week 3 | NetworkWalks Cybersecurity & Ethical Hacking Internship**
